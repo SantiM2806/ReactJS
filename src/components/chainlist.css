@@ -1,0 +1,13 @@
+.chain-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .chain-list li {
+    padding: 10px;
+    background: #fff;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
